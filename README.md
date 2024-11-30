@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendrakumarsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrakumarsoni" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java developer**
+- 🌱 I’m Working as a **Data Analyst**
 
-- 💬 Ask me about **Java,C#,SQL Server,My SQL,HTML,CSS,JS**
+- 💬 Ask me about **Python,C#,SQL Server,MySQL,Power BI,Ms Excel,PowerPoint,Data Analysis,Business Analysis**
 
 - 📫 How to reach me **sethveer1995@gmail.com**
 
