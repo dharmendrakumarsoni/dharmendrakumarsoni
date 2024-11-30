@@ -1,11 +1,8 @@
-<!-- First image: Coding image -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" />
-
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar Soni</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
 <!-- Second image: Direct image from GitHub -->
-<img align="left" alt="Data Analysis Automobiles" width="400" src="https://raw.githubusercontent.com/NikhilTeja21/Data-Analysis-Automobiles/main/path/to/your-image.png" />
-
+<!-- First image: Coding image -->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendrakumarsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrakumarsoni" /> </p>
 
