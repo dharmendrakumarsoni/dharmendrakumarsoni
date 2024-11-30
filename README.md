@@ -1,7 +1,11 @@
-![logo]([[https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966)](https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966))
+<!-- First image: Coding image -->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec6442ce4f6678a618ee77730e0784219b2fe877957705d82f6422702c14d0df/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f302a7444356b4543324a59634b4848307a4f2e676966" />
+
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar Soni</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNikhilTeja21%2FData-Analysis-Automobiles&psig=AOvVaw2WitsQhK_VeyhMyFf83LhB&ust=1733084729346000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiakPrxhIoDFQAAAAAdAAAAABAR)" >
+<!-- Second image: Direct image from GitHub -->
+<img align="left" alt="Data Analysis Automobiles" width="400" src="https://raw.githubusercontent.com/NikhilTeja21/Data-Analysis-Automobiles/main/path/to/your-image.png" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendrakumarsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrakumarsoni" /> </p>
 
