@@ -39,10 +39,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="MS Excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Microsoft_Excel_logo_2013.svg" alt="MS Excel" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerpoint/microsoft_powerpoint-icon.svg" alt="MS PowerPoint" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_PowerPoint_Logo_2013.svg" alt="MS PowerPoint" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -57,6 +57,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendrakumarsoni&show_icons=true&locale=en&layout=compact" alt="dharmendrakumarsoni" /></p>
